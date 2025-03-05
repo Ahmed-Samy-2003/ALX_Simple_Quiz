@@ -4,3 +4,4 @@ quiz.js doesn't contain: ["document.querySelector", "checked", "value"] / quiz.j
 quiz.js doesn't contain: ["if (userAnswer === correctAnswer)"]
 quiz.js doesn't contain: ["document.querySelector("] / quiz.js doesn't contain: ["Correct! Well done."]
 quiz.js doesn't contain: ["That's incorrect. Try again!"]
+quiz.js doesn't contain: ["addEventListener("]
