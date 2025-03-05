@@ -7,3 +7,6 @@ document.getElementById('add').addEventListener('click', function() {
     const result = add(number1, number2);
     document.getElementById('calculation-result').textContent = result;
 });
+calculator.js doesn't contain: ["subtract"]
+calculator.js doesn't contain: ["multiply"]
+calculator.js doesn't contain: ["divide"]    
