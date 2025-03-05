@@ -8,5 +8,7 @@ document.getElementById('add').addEventListener('click', function() {
     document.getElementById('calculation-result').textContent = result;
 });
 calculator.js doesn't contain: ["subtract"]
+calculator.js doesn't contain: ["*"]    
 calculator.js doesn't contain: ["multiply"]
-calculator.js doesn't contain: ["divide"]    
+calculator.js doesn't contain: ["/"]  
+calculator.js doesn't contain: ["divide"]
